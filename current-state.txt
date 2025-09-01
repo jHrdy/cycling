@@ -1,0 +1,8 @@
+Dataset is loaded and processed. 
+The visualizations will follow.
+Next on the list would be first prediction.
+Predictions would be based on neural networks
+Levels of predictions:
+    - simple neural network based on hours in a day
+    - prediction based on hours, days and months
+    - predictions based on hours, days, months and weather forecast from API
