@@ -1,2 +1,4 @@
 bikenv
 current-phase.txt
+__pycache__/
+*.pyc
